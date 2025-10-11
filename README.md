@@ -1,2 +1,6 @@
-# My-Journey
-Daily coding &amp; problem solving logs-tracking what I learn, build and improve every day. My personal diary: DSA, logic building &amp; programming practice. Notes, snippets and mini-projects from my daily coding journey.
+#Daily Coding Log
+Starting ny journey to improve coding & problem-solving skills.
+
+##Day1
+*I'm starting my DSA journey from today.
+(Well I do have studied some of it earlier but here I'll try to be more refined.)
